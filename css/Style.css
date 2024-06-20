@@ -367,6 +367,7 @@ body {
   }
   .mainHeroImage {
     width: 100%;
+    margin: 100px;
   }
   .heroSection__flexColMain,
   .heroSection__flexColSecondary {
